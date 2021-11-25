@@ -1,7 +1,7 @@
 - 👋 Hi, We're @yalosorg. We love to develop software and tools.
 - 👀 Currently, our main project is anonymized messenger
 - 🌱 We're developing modern wrapper for libuv for this goal
-- 💞️ I’m looking to collaborate with C++ programmers
+- 💞️ We're looking to collaborate with C++ programmers
 - 📫 How to reach me yalostap@gmail.com
 
 <!---
